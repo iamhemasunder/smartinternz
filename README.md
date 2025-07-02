@@ -1,0 +1,2 @@
+# smartinternz
+individual project
